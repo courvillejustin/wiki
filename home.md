@@ -3,3 +3,4 @@
 # Personal Wiki
 
 ## Testing out the space. How does sync work between multiple installs ?
+- testing out the sync?
